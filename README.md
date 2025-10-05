@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paakshik Badjatya</h1>
 <h3 align="center">A self taught passionate developer from India | Building with Python, JavaScript & Web Technologie</h3>
-
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paakshik&label=Profile%20views&color=0e75b6&style=flat" alt="paakshik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paakshik" alt="paakshik" /></a> </p>
