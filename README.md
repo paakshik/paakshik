@@ -30,7 +30,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
 </div>
----
+
 
 ### 🌟 Featured Project — *Jarvis AI*
 
