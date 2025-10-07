@@ -1,13 +1,14 @@
 <!-- ⚡ Paakshik | Ultimate GitHub Profile -->
+<!-- Paakshik Badjatya | NIT Silchar | AI & Web Development Portfolio -->
 
 <!-- Animated Wave Header -->
 <p align="center">
-  ![Wave Header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Paakshik&fontSize=45&fontAlignY=35&animation=fadeIn&desc=ECE%20@%20NIT%20Silchar%20%7C%20AI%20%26%20Web%20Development%20Enthusiast&descAlignY=55&descAlign=50)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=120&section=header" alt="Header Animation" />
 </p>
 
 <!-- Typing SVG Animation -->
 <p align="center">
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+Paakshik;ECE+Undergrad+%40+NIT+Silchar;AI+and+Data+Science+Explorer;Web+Developer+%7C+Creative+Thinker;Building+Cool+Stuff+with+Code+💡)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+Paakshik;ECE+Undergrad+%40+NIT+Silchar;AI+and+Data+Science+Explorer;Web+Developer+%7C+Creative+Thinker;Building+Cool+Stuff+with+Code+💡" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,28 +21,15 @@
 🌱 Always learning, building, and innovating  
 
 ---
-
-### ⚙️ Tech Stack  
-
 <div align="center">
 
 💻 **Languages & Frameworks**  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
 
 🧰 **Tools & Platforms**  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
-🧩 **Currently Exploring**  
-<p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,react,nodejs" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
 </div>
-
 ---
 
 ### 🌟 Featured Project — *Jarvis AI*
@@ -62,6 +50,7 @@ Supports voice commands, task automation, and web-based interactions.
 | **AI / ML** | Machine learning logic & model building |
 | **Web Dev** | JavaScript, React, Node.js, CSS Animations |
 
+
 ---
 
 ### 📊 GitHub Analytics  
@@ -75,20 +64,12 @@ Supports voice commands, task automation, and web-based interactions.
 
 ### 🌐 Connect With Me  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/paakshik-badjatya" target="_blank">
-    ![LinkedIn](https://img.shields.io/badge/LinkedIn-Paakshik%20Badjatya-blue?style=for-the-badge&logo=linkedin&logoColor=white)
-  </a>
-  <a href="https://leetcode.com/pBadjatya/" target="_blank">
-    ![LeetCode](https://img.shields.io/badge/LeetCode-pBadjatya-orange?style=for-the-badge&logo=leetcode&logoColor=white)
-  </a>
-  <a href="https://stackoverflow.com/users/Paakshik-Badjatya" target="_blank">
-    ![StackOverflow](https://img.shields.io/badge/StackOverflow-Paakshik%20Badjatya-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)
-  </a>
-  <a href="#" target="_blank">
-    ![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-ff69b4?style=for-the-badge&logo=google-chrome)
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paakshik%20Badjatya-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paakshikbadjatya/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-pBadjatya-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/pBadjatya/)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-Paakshik%20Badjatya-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-ff69b4?style=for-the-badge&logo=google-chrome)](#)
+<img src="https://komarev.com/ghpvc/?username=paakshik&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="views" /> 
+
 
 ---
 
@@ -100,6 +81,7 @@ Supports voice commands, task automation, and web-based interactions.
 🎧 Chill with lo-fi beats  
 
 ---
-
 <p align="center">
-  ![Footer Animation](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=120&sec)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=120&section=footer" alt="Footer Animation" />
+</p>
+
